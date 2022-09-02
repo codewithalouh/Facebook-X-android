@@ -5,9 +5,9 @@
 <p>Type in terminal</p>
 <ul>
 
-<li>git clone </li>
-<li>cd </li>
-<li>chmod +x</li>
-<li>python3 </li>
+<li>git clone https://github.com/ph-phoenix/Facebook-X-android.git</li>
+<li>cd Facebook-X-android</li>
+<li>chmod +x main.py</li>
+<li>python3 main.py </li>
 
 </ul>
