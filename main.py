@@ -10,7 +10,7 @@ print("""
 Facebook-X a powerful Facebook exploitation tool for Android written in python 
 note: for educational purposes only
 """)
-dirc = "/storage/emulated/0/"
+dirc = "storage/shared/"
 now = datetime.now()
 tm = now.strftime("%H:%M")
 usr = input("Target Username: ")
